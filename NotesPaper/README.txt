@@ -1,0 +1,2 @@
+Hello, I'm Thanish A/L Natarajan. I had created a localhost website that is used to write and store notes in own computer.
+This website can be run by using Xampp software in Apache server. This website can be used to read the notes from computer.
